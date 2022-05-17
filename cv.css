@@ -1,0 +1,84 @@
+
+			body{
+			
+				font-family:Candara;
+			
+			}
+			
+			#header{
+			
+				background-color:#ffcc00;
+				height:200px;
+			
+			}
+			
+			h1{
+				
+				padding:80px;
+				text-align:center;
+				
+			}
+			
+			#leftpart{
+				
+				background-color:#B0C4DE;
+				width:300px;
+				height:1200px;
+				float:left;
+			
+			}
+			
+			#leftpart h2{
+			
+				text-align:center;
+			
+			}
+			
+			#leftpart ul{
+			
+				list-style-type: none;
+				
+			}
+			
+			#leftpart span{
+				
+				margin-left:30px;
+				
+			}
+			
+			th{
+			
+				width:200px;
+			
+			}
+			
+			#firstcell{
+			
+				background-color:#0099ff;
+			
+			}
+			
+			#delcell{
+			
+				background-color:white;
+			
+			}
+			
+			#secondcell{
+			
+				background-color:#4db8ff;
+			
+			}
+			
+			#namelanguagecell{
+			
+				background-color:#4db8ff;
+			
+			}
+			
+			tr{
+			
+				height:50px;
+				background-color:#FFEBCD;
+	
+			}
